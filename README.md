@@ -21,9 +21,9 @@
 
 [<img align="left" alt="HTML" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="JavaScript" width="80px" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Bootstrap" width="80px" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="PHP MyAdmin" width="80px" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="padding-right:0px;" />][webdev]
+[<img align="left" alt="JavaScript" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiKztGHvMvOqlh91-rltzuzIbZd07cPz-RpA&usqp=CAU" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Bootstrap" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS17o3BANytt-jcNb9Ed491QJxSma_vmQrK6g&usqp=CAU" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="PHP MyAdmin" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIE9W8ifnHl5VAaUkjoETUO-sWic4ntKn5yrSK2mDaT1BeLqIs36EM3-UWDceCLHLxOfQ&usqp=CAU" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="NodeJS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" style="padding-right:10px;" />][webdev]
 
 <br />

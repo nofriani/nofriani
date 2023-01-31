@@ -1,4 +1,4 @@
-# Hi there, I'm Nofriani Azizaturrohmah - aka [Nofriani ](https://www.youtube.com/channel/UCEiT6OOrQQshO7nM5t7mgTg) 👋
+# Hi there, I'm Nofriani Azizaturrohmah - Hello, [EveryOne ](https://www.youtube.com/channel/UCEiT6OOrQQshO7nM5t7mgTg) 👋
 ## About me:
 - 🔭 I’m currently Student Universias Nahdlatul Ulama Al Ghazali Cilacap
 - 🌱 I’m currently learning HTML, CSS, Javascript, ReactJS, Bootstrap, NodeJS

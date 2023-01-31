@@ -19,7 +19,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="HTML" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="CSS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="JavaScript" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiKztGHvMvOqlh91-rltzuzIbZd07cPz-RpA&usqp=CAU" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Bootstrap" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS17o3BANytt-jcNb9Ed491QJxSma_vmQrK6g&usqp=CAU" style="padding-right:10px;" />][webdev]
